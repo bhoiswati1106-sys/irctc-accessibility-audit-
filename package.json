@@ -1,1 +1,14 @@
-
+{
+  "name": "irctc-accessibility-audit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Accessibility audit and repository architecture project",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "start": "echo Project setup complete",
+    "test": "echo Tests not configured yet"
+  }
+}
